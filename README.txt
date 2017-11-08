@@ -1,6 +1,5 @@
-hello
+Hello!
 
--kadar commitaš ne commitaj objektov (.o), ker požre preveè placa (ga je na voljo samo 50 MB), je treba malo varèevati ;)
--commitaj samo .h in .c fajle
+Commit only source (.c) and header (.h) files.
 
-Good luck!
+Good luck and have fun!
